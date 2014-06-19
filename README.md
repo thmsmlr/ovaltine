@@ -26,7 +26,7 @@ $ ovaltine [-options ...] FILE
   -n    # Maximum number of decoders to chain together
   
   # Validations
-  --english-confidence=[default 0.15]     # Percentage of english words to pass
+  --english-confidence=[default 15]     # Percentage of english words to pass
   ...
   ..
   .
